@@ -1,3 +1,5 @@
+#program_1.py, Claire Francis, Jan 20, 2025.
+
 def proverbs_22_29():
     # Write your Proverbs 22:29 code below
     print('"Do you see a man skillful in his work?')
